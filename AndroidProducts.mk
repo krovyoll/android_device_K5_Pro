@@ -15,7 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_X00TD.mk
+    $(LOCAL_DIR)/bliss_X00TD.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_X00TD-userdebug
+    bliss_X00TD-userdebug
